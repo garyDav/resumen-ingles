@@ -34,6 +34,52 @@
 
 **English 03:** Conversación.
 
+**M:** Hello sir, how are you?. `(¿Hola señor, cómo esta?)`
+
+**H:** Fine thanks. `(Bien, gracias)`
+
+**M:** Oh, you understand english?. `(Oh, ¿entiendes inglés?)`
+
+**H:** Yes a little, not very well `(Sí un poco, no muy bien)`
+
+**M:** Are you Mexican sir? `(¿Es usted señor mexicano?)`
+
+**H:** Yes.
+
+**M:** But you understand english very well. `(Pero entiendes muy bien el ingles)`
+
+## Nivel 4
+
+**English 04:** Conversación.
+
+**H:**
+
+**M:**
+
+**H:**
+
+**M:**
+
+**H:**
+
+**M:**
+
+**H:**
+
+**M:**
+
+**H:**
+
+**M:**
+
+## Nivel 4
+
+**English 04:** Conversación.
+
+**H:**
+
+**M:**
+
 **H:**
 
 **M:**
