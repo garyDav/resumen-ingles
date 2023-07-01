@@ -2,8 +2,6 @@
 
 ## Nivel 1
 
-**English 01:** Conversación.
-
 **H:** Excuse me miss, do you understand spanish?.\
 `(Disculpe señorita, ¿usted entiende español?)`
 
@@ -39,8 +37,6 @@
 
 ## Nivel 2
 
-**English 02:** Conversación.
-
 **M:** Excuse me sir, do you understand english?.\
 `(Disculpe señor, ¿usted entiende inglés?)`
 
@@ -56,25 +52,14 @@
 **M:** No, I don't, I don't understand spanish.\
 `(No, no entiendo, no entiendo español)`
 
-- I understand a little\
-  `(Entiendo un poco)`
-
 - I understand a little spanish\
   `(Entiendo un poco de español)`
 
-- You're Mexican\
-  `(Usted es Mexicano)`
-
-- I'm Mexican\
-  `(Soy Mexicano)`
-
 - Hello ma'am\
   `(Hola señora)`
+
 - How are you sir?\
   `(¿Cómo está señor?)`
-
-- Fine, thanks\
-  `(bien gracias)`
 
 - I'm fine thanks\
   `(Estoy bien gracias)`
@@ -92,8 +77,6 @@
   `(Gracias Señorita)`
 
 ## Nivel 3
-
-**English 03:** Conversación.
 
 **M:** Hello sir, how are you?.\
 `(¿Hola señor, cómo esta?)`
@@ -124,6 +107,7 @@
 
 - I'm not American\
   `(No soy Norteamericano)`
+
 - I'm Mexican, and you?\
   `(Soy Mexicano ¿Y usted?)`
 
@@ -140,8 +124,6 @@
   `(No, lo siento, no entiendo español)`
 
 ## Nivel 4
-
-**English 04:** Conversación.
 
 **H:** Excuse me miss, are you American?.\
 `(Disculpe señorita, ¿usted es americana?)`
@@ -163,6 +145,30 @@
 
 **H:** Thank you miss.\
 `(Gracias señorita)`
+
+- Where is east fifty second street? please\
+  `(¿Dónde queda la calle cincuenta y dos este? por favor)`
+
+- Where is park street? please\
+  `(¿Dónde queda la calle parque? por favor)`
+
+- Where is park avenue? please\
+  `(¿Dónde queda la avenida parque?)`
+
+- It's here sir\
+  `(Queda aquí señor)`
+
+- Is it here?\
+  `(¿Queda aquí?)`
+
+- It's not over there\
+  `(No queda allá)`
+
+- And park avenue?\
+  `(¿Y la avenida parque?)`
+
+- No problem, never mind\
+  `(No hay problema, no importa)`
 
 ---
 
